@@ -1,0 +1,10 @@
+{
+  "name": "book-sync",
+  "version": "1.0.0",
+  "description": "Synchronized text reader for classrooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+}
